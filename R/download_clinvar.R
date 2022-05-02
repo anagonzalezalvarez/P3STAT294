@@ -1,7 +1,7 @@
 #' Import ClinVar VCF
 #'
 #' This function allows you to read a ClinVar VCF into a table
-#'
+#' @return Latest version of Clinvar VCF
 #' @export
 
 download_clinvar <- function() {

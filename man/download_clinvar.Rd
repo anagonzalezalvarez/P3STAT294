@@ -6,6 +6,9 @@
 \usage{
 download_clinvar()
 }
+\value{
+Latest version of Clinvar VCF
+}
 \description{
 This function allows you to read a ClinVar VCF into a table
 }
