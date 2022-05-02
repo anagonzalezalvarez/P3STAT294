@@ -2,4 +2,3 @@
 
 export(download_clinvar)
 import(ggplot2)
-import(stringr)

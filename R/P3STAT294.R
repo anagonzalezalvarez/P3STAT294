@@ -9,6 +9,5 @@
 #' @docType package
 #' @name P3STAT294
 #'
-#' @import stringr
 #' @import ggplot2
 NULL
