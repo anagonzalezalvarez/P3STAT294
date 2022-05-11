@@ -4,7 +4,8 @@ Version: 0.0.0.9000
 Authors@R: 
     person("Ana Cecilia", "González", ,
     "ana.gonzalezalvarez@kaust.edu.sa", role = c("aut", "cre"))
-Description: This package extracts the information from ClinVar.
+Description: This package extracts the latest version of vcf_GRCh37 published by  
+ClinVar https://ftp.ncbi.nlm.nih.gov/pub/clinvar/
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
