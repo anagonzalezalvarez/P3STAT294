@@ -41,7 +41,7 @@ The body of VCF is tab separated into 8 mandatory columns and an unlimited numbe
 8	`INFO` An extensible list of key-value pairs (fields) describing the variation. Multiple fields are separated by semicolons with optional values in the format: <key>=<data>[,data].  
 
 The vcf_GRCh37 file published by CLINVAR contains the following information  
-![](./VCF.png){width=700px}
+![](./vcf.png){width=700px}
 
 
 ## Installation
